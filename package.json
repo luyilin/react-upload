@@ -1,0 +1,25 @@
+{
+  "name": "react-upload",
+  "version": "0.0.1",
+  "description": "A upload ui component for React, support image and video",
+  "repository": {
+    "url": "luyilin/react-upload",
+    "type": "git"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+  },
+  "author": "luyilin <luyilin12@gmail.com>",
+  "license": "MIT",
+  "poi": {
+    "entry": "example/index.js",
+    "dist": "example/dist",
+    "homepage": "./"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
