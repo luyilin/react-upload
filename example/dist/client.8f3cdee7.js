@@ -1,2 +1,0 @@
-webpackJsonp([1],{4:function(e,n,t){e.exports=t(5)},5:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var c=t(1),l=t.n(c),r=t(7),u=(t.n(r),function(){return l.a.createElement("h1",null,"Hello React.")});Object(r.render)(l.a.createElement(u,null),document.getElementById("app"))}},[4]);
-//# sourceMappingURL=client.8f3cdee7.js.map
