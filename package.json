@@ -11,7 +11,7 @@
   ],
   "scripts": {
     "dev": "poi --jsx react",
-    "build": "poi build"
+    "build": "poi build --jsx react"
   },
   "author": "luyilin <luyilin12@gmail.com>",
   "license": "MIT",
